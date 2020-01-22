@@ -1,4 +1,4 @@
-Django==2.2.3
+django>=2.2.9
 pytz==2018.3
 
 psycopg2
